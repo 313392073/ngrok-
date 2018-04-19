@@ -1,0 +1,7 @@
+ngrok -config=ngrok.cfg -subdomain huangyu2017 80
+
+ngrok -config=ngrok.cfg -subdomain baiyy.com 80
+
+http://huangyu2017.tunnel.qydev.com
+
+ngrok -config=ngrok.cfg -subdomain baiyy.coms 80
